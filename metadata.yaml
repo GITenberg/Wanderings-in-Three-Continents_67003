@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '40073'
     url: http://www.gutenberg.org/2009/agents/40073
     wikipedia: https://en.wikipedia.org/wiki/Arthur_David_McCormick
+covers:
+- cover_type: archival
+  image_path: 67003-h/images/cover.jpg
 creator:
   author:
     agent_name: Burton, Richard Francis, Sir
@@ -35,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2026
     wikipedia: https://en.wikipedia.org/wiki/William_Henry_Wilkins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67003#Wanderings-in-Three-Continents
 gutenberg_issued: '2021-12-24'
 identifiers:
   gutenberg: '67003'
